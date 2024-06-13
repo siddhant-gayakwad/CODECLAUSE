@@ -8,7 +8,7 @@ LANGUAGES : Angular, React, Vue.js, Go, Dart, Java, HTML, CSS, JavaScript, PHP, 
 
 OFFER LETTER:-
 
-![OFFER LETTER]((https://github.com/siddhant-gayakwad/CODECLAUSE/assets/101993978/73e98d71-9bb5-4ebf-b6b5-d0dd2f4fbf19)
+![OFFER LETTER](https://github.com/siddhant-gayakwad/CODECLAUSE/assets/101993978/73e98d71-9bb5-4ebf-b6b5-d0dd2f4fbf19)
 
 5 TASKS :-
 
