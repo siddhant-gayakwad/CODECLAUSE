@@ -1,14 +1,14 @@
-The CODECLAUSE Online internship has recently concluded, spanning a duration of one month from 1st June, 2024 to 1st July, 2024. Throughout this internship, I had the opportunity to delve into various aspects of web development, particularly focusing on Angular, React, Vue.js, Go, Dart, Java, HTML, CSS, JavaScript, Github API. The internship was conducted entirely online, allowing for flexibility and convenience in completing the assigned tasks.
+The CODECLAUSE Online internship has recently concluded, spanning a duration of one month from 1st July, 2024 to 1st Aug, 2024. Throughout this internship, I had the opportunity to delve into various aspects of JAVA development, particularly focusing on Java, API integration, JavaSwing for UI, JavaMail API, Database (e.g., MySQL) for data storage. The internship was conducted entirely online, allowing for flexibility and convenience in completing the assigned tasks.
 
-INTERSHIP DURATION: 1 MONTHS [1 June - 1 July]
+INTERSHIP DURATION: 1 MONTHS [1 July - 1 Aug]
 
 MODE: ONLINE
 
-LANGUAGES : Angular, React, Vue.js, Go, Dart, Java, HTML, CSS, JavaScript, PHP, MySQL
+LANGUAGES : JAVA
 
 OFFER LETTER:-
 
-![OFFER LETTER](https://github.com/siddhant-gayakwad/CODECLAUSE/assets/101993978/73e98d71-9bb5-4ebf-b6b5-d0dd2f4fbf19)
+![OFFER LETTER](https://github.com/siddhant-gayakwad/CODECLAUSE/assets/101993978/4bc68d4e-1a41-48b3-b67b-a6cbe3c46894)
 
 5 TASKS :-
 
